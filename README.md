@@ -32,7 +32,7 @@ http = urllib3.PoolManager()
 def lambda_handler(event, context):
     url = "https://hooks.slack.com/services/xxxxxxx"
     msg = {
-        "channel": "#CHANNEL_NAME",
+        "channel": "#YOUR_CHANNEL_NAME",
         "username": "WEBHOOK_USERNAME",
         "text": event['Records'][0]['Sns']['Message'],
         "icon_emoji": ""
