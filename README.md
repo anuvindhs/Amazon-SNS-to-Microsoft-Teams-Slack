@@ -1,9 +1,9 @@
 # Amazon-SNS-to-Microsoft-Teams-Slack
 
 ## For tutorial Please visit 
-Read On [Dev.to](https://dev.to/anuvindhs/how-to-send-aws-notifications-aws-sns-to-microsoft-teams-1d1l)
+Read On [Dev.to](https://dev.to/anuvindhs/how-to-send-aws-notifications-aws-sns-to-microsoft-teams-1d1l) , 
 Read on [iCTPro.co.nz](https://ictpro.co.nz/how-to-send-aws-notifications-aws-sns-to-microsoft-teams/)
-
+-----
 ![introimage](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpf2trjki62z5qmrgmwf.png)
 ## Code snippet for Microsoft Teams
 
